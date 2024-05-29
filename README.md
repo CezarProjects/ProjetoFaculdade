@@ -8,7 +8,7 @@ Uma característica destacável é a seção de solicitação de livros, onde os
 
 Por fim, a área administrativa é reservada exclusivamente aos administradores, oferecendo controle total sobre o conteúdo do site. Aqui, os administradores podem adicionar e remover categorias, autores e livros com facilidade. O processo de adição de livros é especialmente robusto, permitindo a inclusão de informações detalhadas, como categoria, autor, nome do livro e a capa do livro, além do arquivo PDF para download.
 
-Em suma, este projeto demonstra um domínio significativo das tecnologias PHP e PhpMyAdmin, combinado com uma compreensão clara das necessidades do usuário. A integração eficiente de frontend e backend resulta em uma experiência de usuário coesa e satisfatória. Parabéns à equipe pelo excelente trabalho!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Preparação do Ambiente:
 
