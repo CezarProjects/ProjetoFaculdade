@@ -1,0 +1,45 @@
+Documentação do Projeto: Catálogo de Livros
+Visão Geral:
+O projeto Catálogo de Livros é uma aplicação web desenvolvida em PHP, com frontend e backend, utilizando o PhpMyAdmin para gerenciamento do banco de dados. O objetivo principal é fornecer aos usuários uma plataforma para explorar séries de livros, organizadas por autor e categoria, solicitar a inclusão de novos livros e permitir que administradores gerenciem o conteúdo do site.
+
+Funcionalidades:
+1. Página Inicial:
+Apresenta uma seleção de séries de livros organizadas por autor e categoria.
+Os usuários podem navegar facilmente pelo catálogo e encontrar livros de seu interesse.
+2. Página "Sobre":
+Fornece informações detalhadas sobre o propósito e funcionamento do site.
+Ajuda os usuários a entenderem melhor o contexto e a finalidade da aplicação.
+3. Formulário de Solicitação:
+Permite que os usuários solicitem a inclusão de novos livros no catálogo.
+Os usuários preenchem um formulário com informações sobre o livro desejado.
+Após o envio do formulário, a solicitação é encaminhada para análise pelos administradores.
+4. Área Administrativa:
+Apenas administradores têm acesso a esta seção.
+Permite aos administradores adicionar, editar e remover categorias, autores e livros.
+Inclui funcionalidade para upload de capa e arquivo PDF dos livros a serem adicionados.
+Instruções de Uso:
+Configuração do Ambiente:
+
+Instale o Xampp para fornecer um ambiente de desenvolvimento local.
+Certifique-se de ter o PhpMyAdmin configurado e funcionando corretamente.
+Download e Configuração:
+
+Faça o download dos arquivos do projeto a partir do repositório do GitHub.
+Coloque os arquivos na pasta htdocs do Xampp.
+Configure o arquivo de configuração para se conectar ao banco de dados do PhpMyAdmin.
+Inicialização do Servidor Local:
+
+Inicie o Xampp e inicie os serviços Apache e MySQL.
+Acesso ao Site:
+
+Abra um navegador da web e navegue para localhost/<nomedapasta>, onde <nomedapasta> é o nome da pasta onde os arquivos do projeto estão localizados.
+Explorando as Funcionalidades:
+
+Explore as diferentes seções do site, incluindo a página inicial, página "Sobre", formulário de solicitação e área administrativa.
+Interaja com o site como usuário e, se necessário, faça login como administrador para acessar funcionalidades adicionais.
+Gerenciando o Conteúdo:
+
+Na área administrativa, adicione, edite ou remova categorias, autores e livros conforme necessário.
+Ao adicionar novos livros, forneça informações completas, incluindo categoria, autor, nome do livro, capa e arquivo PDF.
+Conclusão:
+O projeto Catálogo de Livros é uma aplicação web completa que oferece uma experiência rica para os usuários explorarem e solicitarem novos livros. Com uma combinação de frontend e backend em PHP, juntamente com o uso do PhpMyAdmin para gerenciamento de banco de dados, o projeto demonstra um conhecimento sólido de desenvolvimento web e boas práticas de programação.
