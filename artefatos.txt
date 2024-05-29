@@ -1,0 +1,21 @@
+Artefatos do Projeto Catálogo de Livros:
+
+Página Inicial:
+
+Apresenta uma seleção de livros organizados por autor e categoria.
+Oferece opções de filtragem por categoria e autor para facilitar a navegação.
+Inclui uma caixa de pesquisa para busca direta de livros específicos.
+Página "Sobre":
+
+Fornece informações detalhadas sobre o propósito e funcionamento do site.
+Estabelece transparência e confiança com os usuários, explicando a natureza do projeto.
+Formulário de Solicitação:
+
+Permite que os usuários solicitem a inclusão de novos livros no catálogo.
+Os usuários preenchem um formulário com informações sobre o livro desejado.
+As solicitações são encaminhadas para análise pelos administradores.
+Área Administrativa:
+
+Acesso restrito aos administradores para gerenciamento do conteúdo do site.
+Permite adicionar, editar e remover categorias, autores e livros.
+Funcionalidade de upload de capas e arquivos PDF para novos livros.
